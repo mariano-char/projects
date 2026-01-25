@@ -19,7 +19,3 @@ Built a Python based API connected to a MySQL database to manage monthly expense
 ### 🥇 Group Project: Employee Skills Tracker (API, Data Analysis)
 
 Collaborated on a group project that uses an API to access employee data and match individual skills against job role requirements. The application calculates a match score and identifies skill gaps, helping managers understand development priorities. This project strengthened my experience with APIs, data analysis, and teamwork.
-
-<div align="center"><img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /></div>
